@@ -1,3 +1,3 @@
 {
-	"name": "Sparky Bot Multi Device + "
+	"name": "achu Bot Multi Device + "
 }
